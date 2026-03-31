@@ -1,35 +1,11 @@
-# Welcome To The Blog!!!
+# Bag of Words
 
-
-![Screenshot from 2024-08-25 16-39-20](https://github.com/user-attachments/assets/8986652e-2b46-41c5-95c6-0de50a5b8701)
-
-
-
-<!-- 
-## Table of Contents -->
-
-<!-- - [About Project](#about-project)
-- [Summary Of Work Done](#summary-of-work-done)
-- [Contributions (PRs)](#contributions)
-- [Code That Didnt merge](#code-that-did-not-get-merged)
-- [Future Plans](#future-plans)
-- [Conclusion](#conclusion) -->
-
-
-## About the Blog
-This Blog encompases various concepts involved in the rocketchat project minimal mcp server generator
-
-
-## About the Project
+The codebase is designed to categorize/classify the columns present in the TSV input file into classes according to the existing categories present in the Neurobagel annotation tool, based on the column name and the content of the column. The LLM makes its predictions for a specific input string consisting of the column header and the column contents based on the examples provided to it beforehand in its prompt template. The various tasks carried out by this codebase mainly utilize LangChain, the json library from Python, and the LLM 'Gemma' from Ollama.
 
 
 
-
-
-### Pull Requests Issued
-
-About the MVP created : 
-
+# Fuzzy Matching 
+Fuzzy matching (or approximate string matching) is a data processing technique that identifies and links strings of text that are similar but not identical. Instead of requiring an exact character-by-character match, it uses algorithms to calculate a similarity score that accounts for typos, spelling variations, abbreviations, and formatting inconsistencies
 **Thanks and Regards,**
 
 **Atharv Vedant**
