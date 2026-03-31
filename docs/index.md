@@ -6,6 +6,4 @@ The codebase is designed to categorize/classify the columns present in the TSV i
 
 # Fuzzy Matching 
 Fuzzy matching (or approximate string matching) is a data processing technique that identifies and links strings of text that are similar but not identical. Instead of requiring an exact character-by-character match, it uses algorithms to calculate a similarity score that accounts for typos, spelling variations, abbreviations, and formatting inconsistencies
-**Thanks and Regards,**
 
-**Atharv Vedant**
